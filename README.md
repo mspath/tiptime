@@ -16,9 +16,9 @@ This app is part of the [Android Basics in Kotlin] course from Google, see [Unit
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -26,5 +26,5 @@ Environment
 language: kotlin
 repo: tiptime
 status: archived
-updated: 2022-12-03
+updated: 2023-04-04
 ```

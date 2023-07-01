@@ -18,7 +18,7 @@ Environment
 
 - Kotlin 1.8.10
 - Android Studio Flamingo 2022.2.1
-- Gradle Plugin 8.0.0
+- Gradle Plugin 8.0.2
 
 ---
 
@@ -26,5 +26,5 @@ Environment
 language: kotlin
 repo: tiptime
 status: archived
-updated: 2023-05-02
+updated: 2023-07-01
 ```
